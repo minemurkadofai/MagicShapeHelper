@@ -1,4 +1,4 @@
-# Magic Shape Helper ADOFAI
+# Magic Shape Helper for ADOFAI
 
 Download latest version: https://github.com/minemurkadofai/MagicShapeHelper/releases/latest
 
@@ -13,6 +13,7 @@ How to use the mod:
 2.Go back to the beginning of your build.
 3.Press bind(default - f), press right arrow.
 4.Repeat until the entire Magic Shape is filled with bunnies and snails.
+
 
 
 
