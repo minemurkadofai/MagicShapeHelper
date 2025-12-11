@@ -7,6 +7,7 @@ This mod is 100% (currently) written by Cursor AI
 v1.0.0 was made in 1 day
 
 This mod for ADOFAI calculates the required multiplier to maintain a given bpm when bending
+![1211 (1)](https://github.com/user-attachments/assets/eb0286ea-91eb-428d-9a70-03b1d252e1a6)
 
 How to use the mod:
 
