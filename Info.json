@@ -1,0 +1,13 @@
+{
+    "Id": "MagicShapeHelper",
+    "Version": "1.0.0",
+    "DisplayName": "Magic Shape Helper",
+    "Author": "markd",
+    "ManagerVersion": "0.27.3",
+    "GameId": "adofai",
+    "GameVersion": "1.0.0",
+    "AssemblyName": "MagicShapeHelper.dll",
+    "EntryMethod": "MagicShapeHelper.Main.Load",
+    "HomePage": "",
+    "Repository": ""
+}

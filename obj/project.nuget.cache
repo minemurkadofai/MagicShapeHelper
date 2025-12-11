@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zibuagXNjV0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\markd\\Documents\\Mark_vault\\Mark_vault\\Игры\\MagicShapeHelper\\MagicShapeHelper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\markd\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\markd\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net48\\1.0.3\\microsoft.netframework.referenceassemblies.net48.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,7 @@
+C:\Users\markd\Documents\Mark_vault\Mark_vault\Игры\MagicShapeHelper\obj\Release\MagicShapeHelper.csproj.AssemblyReference.cache
+C:\Users\markd\Documents\Mark_vault\Mark_vault\Игры\MagicShapeHelper\obj\Release\MagicShapeHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\markd\Documents\Mark_vault\Mark_vault\Игры\MagicShapeHelper\obj\Release\MagicShapeHelper.csproj.CoreCompileInputs.cache
+C:\Users\markd\Documents\Mark_vault\Mark_vault\Игры\MagicShapeHelper\bin\Release\MagicShapeHelper.dll
+C:\Users\markd\Documents\Mark_vault\Mark_vault\Игры\MagicShapeHelper\bin\Release\MagicShapeHelper.pdb
+C:\Users\markd\Documents\Mark_vault\Mark_vault\Игры\MagicShapeHelper\obj\Release\MagicShapeHelper.dll
+C:\Users\markd\Documents\Mark_vault\Mark_vault\Игры\MagicShapeHelper\obj\Release\MagicShapeHelper.pdb
